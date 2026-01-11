@@ -39,16 +39,16 @@ CPU：Intel Core i5-10500
 
 ✅ 板载无线网卡（需要手动patch，仅支持接力不支持隔空投送、随航）
 
-BIOS设置
-Settings -> 安全 -> 安全引导 -> 安全启动：关闭
-Settings -> 唤醒设置 -> USB设备从S3/S4/S5唤醒：允许
-Settings -> 唤醒设置 -> PS/2鼠标从S3/S4/S5唤醒：允许
-Settings -> 唤醒设置 -> USB键盘从S3/S4/S5唤醒：任意键
-Settings -> 高级 -> 内建显示器配置 -> 集成显卡多显示器：允许（否则核显硬件解码失效，只使用核显的可以忽略）
-Settings -> 高级 -> PCIe -> PCI子系统设置 -> Re-Size BAR Support ：禁止
-OC -> CPU 特征 -> Intel 虚拟化技术：允许
-OC -> CPU 特征 -> Intel VT-D 技术：禁止（驱动 WIFI 需开启）
-OC -> CPU 特征 -> CFG锁定：禁止
+### BIOS 设置
+- Settings -> 安全 -> 安全引导 -> 安全启动：关闭
+- Settings -> 唤醒设置 -> USB设备从S3/S4/S5唤醒：允许
+- Settings -> 唤醒设置 -> PS/2鼠标从S3/S4/S5唤醒：允许
+- Settings -> 唤醒设置 -> USB键盘从S3/S4/S5唤醒：任意键
+- Settings -> 高级 -> 内建显示器配置 -> 集成显卡多显示器：允许（否则核显硬件解码失效，只使用核显的可以忽略）
+- Settings -> 高级 -> PCIe -> PCI子系统设置 -> Re-Size BAR Support ：禁止
+- OC -> CPU 特征 -> Intel 虚拟化技术：允许
+- OC -> CPU 特征 -> Intel VT-D 技术：禁止（驱动 WIFI 需开启）
+- OC -> CPU 特征 -> CFG锁定：禁止
 
 
 请自行填写三码！请自行填写三码！请自行填写三码！
