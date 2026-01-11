@@ -8,7 +8,7 @@
 本EFI适用于微星B460M迫击炮WIFI版，其他主板仅供参考
 
 主机配置
-CPU：Intel Core i7-10700
+CPU：Intel Core i5-10500
 
 主板：微星 B460M MORTAR WIFI
 
