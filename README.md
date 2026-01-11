@@ -10,7 +10,7 @@
 ### 主机配置
 CPU：Intel Core i5-10500
 
-主板：微星 B460M MORTAR WIFI
+主板：微星 MAG B460M MORTAR
 
 内存：三星 16GB DDR4 3200
 
